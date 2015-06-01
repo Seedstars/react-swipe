@@ -13,7 +13,7 @@
   "author": "Jed Schmidt <where@jed.is>",
   "repository": {
     "type": "git",
-    "url": "git://github.com/jed/react-swipe.git"
+    "url": "git://github.com/Seedstars/react-swipe"
   },
   "main": "react-swipe.js",
   "license": "MIT",
@@ -28,10 +28,6 @@
   },
   "dependencies": {
     "react": "0.13.x",
-    "Swipe": "git://github.com/Seedstars/Swipe.git"
-  },
-  "peerDependencies": {
-    "react": "0.13.x",
-    "Swipe": "git://github.com/Seedstars/Swipe.git"
+    "Swipe": "git://github.com/Seedstars/Swipe"
   }
 }
