@@ -28,10 +28,10 @@
   },
   "dependencies": {
     "react": "0.13.x",
-    "swipe-js-iso": ">=2.0.0"
+    "Swipe": "git://github.com/Seedstars/Swipe.git"
   },
   "peerDependencies": {
     "react": "0.13.x",
-    "swipe-js-iso": ">=2.0.0"
+    "Swipe": "git://github.com/Seedstars/Swipe.git"
   }
 }
