@@ -2,7 +2,7 @@
   if (typeof module !== 'undefined' && module.exports) {
     module.exports = factory(
       require('react/addons'),
-      require('Swipe')
+      require('Swipe/swipe.js')
     );
   } else {
     root.ReactSwipe = factory(
